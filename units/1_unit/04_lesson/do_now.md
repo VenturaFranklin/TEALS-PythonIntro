@@ -17,12 +17,6 @@ print("Hello there, " + a)
 4. Briefly describe what `input` does?
 <br><br>
 
-## Snap to Python
-Convert the following to Python code:
-![Snap Input](snap_input.png)
-<br>
-<br>
-
 ## Swapping
 Copy the following code into your editor. 
 
