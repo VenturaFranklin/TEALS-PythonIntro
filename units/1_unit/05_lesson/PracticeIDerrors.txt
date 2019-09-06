@@ -1,0 +1,30 @@
+for number in range(10):
+    count = count + number
+print("The count is:", count)
+
+
+
+
+
+
+
+
+
+Count = 0
+for number in range(10):
+    count = count + number
+print("The count is:", count)
+
+
+def another_function():
+  print("Syntax errors are annoying.")
+   print("But at least Python tells us about them!")
+  print("So they are usually not too hard to fix.")
+
+
+number = 3000
+if (Number % 3) == 0:
+    message = message + a
+else:
+    message = message + "b"
+print(message)

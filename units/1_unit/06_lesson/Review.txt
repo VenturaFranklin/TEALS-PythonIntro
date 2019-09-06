@@ -1,0 +1,10 @@
+Review what each is and what for
+- strings: ""
+- integers: 1, 2, 3
+- operators: -, +, /, *
+- variables: word = ""
+- print() to output
+- input() to ask question
+- int() string --> number (integer)
+- str() integer --> string "1"
+- comments: # to ignore
