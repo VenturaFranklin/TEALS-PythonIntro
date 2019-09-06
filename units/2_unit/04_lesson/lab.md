@@ -55,10 +55,7 @@
  <br><br>
     
 
-2) Translate this Snap! program into a Python program. 
-![triangle_program](triangle_program.png)
-
-3) Create a game show program! 
+2) Create a game show program! 
     
 * Declare 10 prizes (prize1, prize2, prize 3 at the top of your file)
 * User picks a number
